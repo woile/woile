@@ -1,16 +1,20 @@
 ### Hi there 👋
 
-<!--
-**Woile/woile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer from Argentina.
 
-Here are some ideas to get you started:
+Interested in:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- rust
+- python
+- sustainability
+
+## Connect
+
+- Blog: [woile.dev](https://woile.dev/blog)
+- Twitter: [@santiwilly](https://twitter.com/santiwilly)
+- Email: santiwilly@gmail.com
+
+## Donations
+
+- [Tip me on liberapay](https://liberapay.com/woile)
+- [Tip me DAI on zksync](https://link.zksync.io/?MHg3N2M0NTY4YTE3MjI4ZDhiYzU3OTA5MmM1MGE4MjYxODBlYWRkMWIwfERBSXwxMA)
