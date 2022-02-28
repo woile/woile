@@ -7,6 +7,11 @@ Interested in:
 - rust
 - python
 - sustainability
+- open source
+
+## Projects
+
+I've contributed to many different open source projects and I created [commitizen](https://github.com/commitizen-tools/commitizen)
 
 ## Connect
 
