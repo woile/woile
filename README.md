@@ -22,4 +22,4 @@ I've contributed to many different open source projects and I created [commitize
 ## Donations
 
 - [Tip me on liberapay](https://liberapay.com/woile)
-- [Tip me DAI on zksync](https://link.zksync.io/?MHg3N2M0NTY4YTE3MjI4ZDhiYzU3OTA5MmM1MGE4MjYxODBlYWRkMWIwfERBSXwxMA)
+- ETH: 0x7d222C19a03e0e69D1D9d72910Ae3E741018D5BB
