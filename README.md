@@ -15,9 +15,10 @@ I've contributed to many different open source projects and I created [commitize
 
 ## Connect
 
-- Blog: [woile.dev](https://woile.dev/blog)
-- Twitter: [@santiwilly](https://twitter.com/santiwilly)
+- Blog: [woile.dev](https://woile.eu/blog)
+- ATProto: [@woile.eu](https://mu.social/profile/woile.eu)
 - Email: santiwilly@gmail.com
+- Mastodon: [@woile](https://hachyderm.io/@woile)
 
 ## Donations
 
